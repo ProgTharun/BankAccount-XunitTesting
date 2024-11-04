@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccount XunitTesting", "BankAccount XunitTesting\BankAccount XunitTesting.csproj", "{F367D56E-3BE8-4FB7-ADAC-6FBB45B98EB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F367D56E-3BE8-4FB7-ADAC-6FBB45B98EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F367D56E-3BE8-4FB7-ADAC-6FBB45B98EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F367D56E-3BE8-4FB7-ADAC-6FBB45B98EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F367D56E-3BE8-4FB7-ADAC-6FBB45B98EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0A773E0-3D63-4F30-8DEB-C9B0ED25326B}
+	EndGlobalSection
+EndGlobal
